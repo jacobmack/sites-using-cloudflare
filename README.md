@@ -1132,7 +1132,6 @@ Also, a list of some [iOS apps](https://www.nowsecure.com/blog/2017/02/23/cloudf
 - stereogum.com
 - stocktwits.com
 - stopforumspam.com
-- storenvy.com
 - streamhunter.eu
 - stream-tv.me
 - stuffgate.com
